@@ -6,7 +6,7 @@ import FlutterMacOS
 import Foundation
 
 import audioplayers_darwin
-import ffmpeg_kit_16kb
+import ffmpeg_kit_flutter_new
 import file_picker
 import path_provider_foundation
 
